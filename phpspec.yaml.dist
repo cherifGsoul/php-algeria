@@ -1,0 +1,6 @@
+formatter.name: pretty
+suites:
+    administrative_division:
+      namespace: Cherif\Algeria
+      psr4_prefix: Cherif\Algeria
+      src_path: ./src

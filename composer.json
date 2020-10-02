@@ -1,0 +1,24 @@
+{
+    "name": "cherif/algeria",
+    "description": "Algerian administrative division",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cherif BOUCHELAGHEM",
+            "email": "cherif.bouchelaghem@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Cherif\\Algeria\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^6.2"
+    }
+}
